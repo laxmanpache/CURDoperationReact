@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "first_name": "Abbey",
+      "email": "ahazle0@weather.com",
+      "contact": "1542603477",
+      "Address": "7 Northwestern Way"
+    },
+    {
+      "id": 2,
+      "first_name": "Dennis",
+      "email": "dfreeberne1@accuweather.com",
+      "contact": "5479166710",
+      "Address": "9938 Evergreen Avenue"
+    },
+    {
+      "first_name": "Laxman",
+      "email": "pachelaxman22@gmail.com",
+      "contact": "9075873087",
+      "Address": "PACHE NIWAS ,NEAR LAXMI MATA TEMPLE",
+      "id": 3
+    },
+    {
+      "first_name": "Ram",
+      "email": "pachelaxman22@gmail.com",
+      "contact": "9075873087",
+      "Address": "Moze college",
+      "id": 4
+    },
+    {
+      "first_name": "da",
+      "email": "jkj",
+      "contact": "9130806617",
+      "Address": "jk",
+      "id": 5
+    }
+  ]
+}
